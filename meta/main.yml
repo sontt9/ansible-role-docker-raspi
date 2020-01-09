@@ -1,0 +1,22 @@
+---
+galaxy_info:
+  author: sontt9
+  description: Ansilbe docker role for raspberry pi
+  company: Cyberonin
+  license: license (MIT)
+  min_ansible_version: 2.9
+  platforms:
+    - name: Debian
+      versions:
+        - stretch
+        - buster
+  galaxy_tags:
+    - system
+    - docker
+    - container
+    - raspberry pi
+    - pi
+    - rpi
+    - raspi
+dependencies: []
+
